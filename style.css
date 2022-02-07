@@ -1,0 +1,155 @@
+div {
+        margin-top: 130px;
+        margin-left: 480px;
+        width: 25%;
+        border: 3px solid green;
+        padding: 10px;
+        text-align: center;
+}
+
+button{
+        padding-left: 1cm; 
+        padding-right: 1cm;
+        text-align: center;
+        font-size: 16px;
+}
+
+#demo {
+        text-align: center;
+        text-transform: uppercase;
+        color: red;
+}
+
+#demo1 {
+        text-align: center;
+        text-transform: uppercase;
+        color: red;
+}
+
+#demo2 {
+        text-align: center;
+        text-transform: uppercase;
+        color: red;
+}
+
+#demo3 {
+        text-align: center;
+        text-transform: uppercase;
+        color: red;
+}
+
+#demo4 {
+        text-align: center;
+        text-transform: uppercase;
+        color: red;
+}
+      
+#demo5 {
+        text-align: center;
+        text-transform: uppercase;
+        color: red;
+}
+
+
+#demo6 {
+        text-align: center;
+        text-transform: uppercase;
+        color: red;
+}
+
+#demo7{
+        text-align: center;
+        text-transform: uppercase;
+        color: red;
+}
+
+
+input[type=text], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+}
+
+
+input[type=email], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+}
+
+input[type=number], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+}
+
+
+#two{
+    display: none;
+}
+#thr{
+    display: none;
+    margin-top: 10px;
+    margin-left: 500px;
+    width: 25%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+}
+#four{
+    display: none;
+}
+
+div1{
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+}    
+.seat {
+        background-color: #000000;
+        height: 10px;
+        width: 15px;
+        margin: 3px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+}
+.seat1{
+        background-color: #FF0000;
+        height: 10px;
+        width: 15px;
+        margin: 3px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+}
+.seat2 {
+        background-color: #FFB6C1;
+        height: 10px;
+        width: 15px;
+        margin: 3px;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+}
+
+#final{
+        font-family: Verdana;
+        font-style: italic;
+        font-size: 30px;
+        color: navy;
+        text-indent: 60px;
+        text-transform: uppercase;
+        text-align: center;
+        margin: auto;
+}
+
